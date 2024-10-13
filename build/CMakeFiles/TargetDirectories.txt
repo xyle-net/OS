@@ -1,0 +1,6 @@
+/mnt/c/Users/mashu/OneDrive/Документы/маи/3 сем/os/OS/lab1/build/CMakeFiles/lab1.dir
+/mnt/c/Users/mashu/OneDrive/Документы/маи/3 сем/os/OS/lab1/build/CMakeFiles/child1.dir
+/mnt/c/Users/mashu/OneDrive/Документы/маи/3 сем/os/OS/lab1/build/CMakeFiles/child2.dir
+/mnt/c/Users/mashu/OneDrive/Документы/маи/3 сем/os/OS/lab1/build/CMakeFiles/lab1_test.dir
+/mnt/c/Users/mashu/OneDrive/Документы/маи/3 сем/os/OS/lab1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mashu/OneDrive/Документы/маи/3 сем/os/OS/lab1/build/CMakeFiles/rebuild_cache.dir
